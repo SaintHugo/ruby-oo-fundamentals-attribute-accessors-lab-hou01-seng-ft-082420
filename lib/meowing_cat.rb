@@ -1,5 +1,7 @@
 class Cat 
   
-  def initialize
+  def cat(name)
+    @name = name
+    
   
 end
